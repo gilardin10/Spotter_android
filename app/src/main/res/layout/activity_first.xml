@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:background="#7b723d"
+    tools:context="com.example.gil.spotter_final.FirstActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+
+    </android.support.design.widget.AppBarLayout>
+
+    <include layout="@layout/content_first"
+        android:id="@+id/include" />
+
+    <ImageButton
+        android:layout_width="139dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="300dp"
+        android:layout_height="116dp"
+        app:srcCompat="@drawable/stats"
+        android:id="@+id/imageButton"
+        android:onClick="showstats"/>
+
+    <CheckBox
+        android:layout_marginLeft="20dp"
+        android:background="@drawable/ic_checkbox"
+        android:id="@+id/checkBox2"
+        android:layout_above="@+id/imageButton"
+        android:layout_alignStart="@+id/imageButton"
+        android:layout_width="139dp"
+        android:layout_height="116dp"
+        android:layout_marginTop="120dp" />
+
+    <ImageButton
+        android:layout_width="139dp"
+        android:layout_marginLeft="200dp"
+        android:layout_marginTop="120dp"
+        android:layout_height="116dp"
+        app:srcCompat="@drawable/about"
+        android:id="@+id/imageButton4"
+        android:onClick="showabout"/>
+
+
+</android.support.design.widget.CoordinatorLayout>

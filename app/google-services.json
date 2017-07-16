@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "114541836526",
+    "firebase_url": "https://spotter-firebase.firebaseio.com",
+    "project_id": "spotter-firebase",
+    "storage_bucket": "spotter-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114541836526:android:9d99916ba6091158",
+        "android_client_info": {
+          "package_name": "com.example.androidthings.imageclassifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114541836526-o7fn3trf4ah4cj8agi78gock02gd33le.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.androidthings.imageclassifier",
+            "certificate_hash": "6ab3981c6bf630a10266f61fe4c104029b77dda9"
+          }
+        },
+        {
+          "client_id": "114541836526-csilhn34beg5occb51bq6lf7mth732t9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.androidthings.imageclassifier",
+            "certificate_hash": "522bf5e75f6d6c401e521b1e8d3985a65899c105"
+          }
+        },
+        {
+          "client_id": "114541836526-hi4ig4ih7cv9vis4mds32f2rbngpk59k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmRdY-EK2Af5Phd5mAxfj9rDhnP2oceOk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114541836526-hi4ig4ih7cv9vis4mds32f2rbngpk59k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114541836526:android:705485b8dc6f2604",
+        "android_client_info": {
+          "package_name": "com.example.gil.spotter_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114541836526-5lb6iuh8pivag9c27kofc6hspie3b0n1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gil.spotter_final",
+            "certificate_hash": "522bf5e75f6d6c401e521b1e8d3985a65899c105"
+          }
+        },
+        {
+          "client_id": "114541836526-hi4ig4ih7cv9vis4mds32f2rbngpk59k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmRdY-EK2Af5Phd5mAxfj9rDhnP2oceOk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114541836526-hi4ig4ih7cv9vis4mds32f2rbngpk59k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
