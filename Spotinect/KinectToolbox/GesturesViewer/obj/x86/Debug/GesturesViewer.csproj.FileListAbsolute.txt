@@ -1,0 +1,9 @@
+C:\Users\Gil\Documents\UA\IM\Trabalho3 - Spotinect\KinectToolbox\GesturesViewer\obj\x86\Debug\MainWindow.baml
+C:\Users\Gil\Documents\UA\IM\Trabalho3 - Spotinect\KinectToolbox\GesturesViewer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Gil\Documents\UA\IM\Trabalho3 - Spotinect\KinectToolbox\GesturesViewer\obj\x86\Debug\App.g.cs
+C:\Users\Gil\Documents\UA\IM\Trabalho3 - Spotinect\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer_Content.g.cs
+C:\Users\Gil\Documents\UA\IM\Trabalho3 - Spotinect\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer_MarkupCompile.cache
+C:\Users\Gil\Documents\UA\IM\Trabalho3 - Spotinect\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.g.resources
+C:\Users\Gil\Documents\UA\IM\Trabalho3 - Spotinect\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.Properties.Resources.resources
+C:\Users\Gil\Documents\UA\IM\Trabalho3 - Spotinect\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.csproj.GenerateResource.Cache
+C:\Users\Gil\Documents\UA\IM\Trabalho3 - Spotinect\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.csprojResolveAssemblyReference.cache

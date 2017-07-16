@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Senhas Cantina</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="ajuda">Descricao\n
+	Esta aplicacao serve para compra e consulta de senhas virtuais, entre outros servicos. As senhas podem ser utilizadas nas duas cantinas existentes no Campus Universitario da Universidade de Aveiro pelas seguintes categorias:\n
+- Aluno\n
+- Funcionario\n
+- Convidado\n
+\n
+Devera selecionar a senha indicada a sua categoria, o pagamento da mesma podera ser feito atraves do servico Paypal ou por transferencia bancaria.</string>
+    <string name="title_activity_senhas">senhas</string>
+    <string name="title_activity_comprar_senhas">comprarSenhas</string>
+    <string name="title_activity_senhas_cantina">senhasCantina</string>
+    <string name="title_activity_ajuda">ajuda</string>
+    <string name="title_activity_ementa">ementa</string>
+    <string name="title_activity_settings">settings</string>
+    <string name="title_activity_test">test</string>
+    <string name="title_activity_ver_senhas">verSenhas</string>
+    <string name="confirmar_senha">Tem a certeza que deseja utilizar esta senha?</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="fechar_senha">Fechar Senha</string>
+    <string name="sem_senha">Não tem nenhuma senha deste tipo.</string>
+    <string name="ok">Ok</string>
+
+    <string-array name="cantinas_array">
+        <item>Santiago</item>
+        <item>Crasto</item>
+        <item>Snack-Bar</item>
+    </string-array>
+
+    <string name="cantinas_prompt">Escolha a cantina desejada</string>
+    <string name="dias_prompt">Escolha o dia desejado</string>
+    <string name="refeicao_prompt">Escolha a refeição desejada</string>
+
+    <string-array name="dias_array">
+        <item>Segunda-Feira</item>
+        <item>Terça-Feira</item>
+        <item>Quarta-Feira</item>
+        <item>Quinta-Feira</item>
+        <item>Sexta-Feira</item>
+        <item>Sabado</item>
+        <item>Domingo</item>
+    </string-array>
+
+    <string-array name="refeicao_array">
+        <item>Almoço</item>
+        <item>Jantar</item>
+    </string-array>
+
+    <string name="ementa1">Sopa - Sopa de brócolos \n Prato Carne - Costelinha com molho barbecue e feijão preto \n Prato Dieta - Badejo assado com maionese e batata cozida \n Prato de Peixe - Badejo grelhado com batata e cenoura cozida \n Prato Dieta - Badejo grelhado com batata e cenoura cozida</string>
+
+</resources>

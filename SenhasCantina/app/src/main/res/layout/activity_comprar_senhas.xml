@@ -1,0 +1,123 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#999999"
+    tools:context="senhascantina.app.MainActivity">
+
+
+
+    <ImageView
+        android:layout_width="230dp"
+        android:layout_height="90dp"
+        android:id="@+id/sasua"
+        android:layout_gravity="center_horizontal|top"
+        android:background="@drawable/logo_sasua"
+        android:layout_marginTop="80dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="COMPRAR SENHAS"
+        android:id="@+id/textView"
+        android:layout_gravity="top|center"
+        android:textSize="30dp"
+        android:textColor="@color/white" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="COMPRAR"
+        android:id="@+id/btnComprar"
+        android:layout_gravity="right|bottom"
+        android:layout_marginBottom="50dp"
+        android:layout_marginRight="35dp"
+        android:textSize="25dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:layout_gravity="center_vertical|left"
+        android:textSize="30dp"
+        android:textColor="@color/white"
+        android:layout_marginLeft="10dp"
+        android:text="ESTUDANTE"
+        android:editable="false" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="FUNCIONARIO"
+        android:id="@+id/textView3"
+        android:layout_gravity="center_vertical|left"
+        android:textSize="30dp"
+        android:textColor="@color/white"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="-40dp"
+        android:editable="false" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="VISITANTE"
+        android:id="@+id/textView4"
+        android:layout_gravity="left|center_vertical"
+        android:textSize="30dp"
+        android:textColor="@color/white"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="-80dp"
+        android:editable="false" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="EXTRA"
+        android:id="@+id/textView5"
+        android:layout_gravity="center_vertical|left"
+        android:textSize="30dp"
+        android:textColor="@color/white"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="-120dp"
+        android:editable="false" />
+
+    <EditText
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/editEst"
+        android:layout_gravity="right|center_vertical"
+        android:layout_marginRight="50dp" />
+
+    <EditText
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/editFunc"
+        android:layout_gravity="right|center_vertical"
+        android:layout_marginRight="50dp"
+        android:layout_marginBottom="-40dp" />
+
+    <EditText
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/editVisi"
+        android:layout_gravity="right|center_vertical"
+        android:layout_marginRight="50dp"
+        android:layout_marginBottom="-80dp" />
+
+    <EditText
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/editExt"
+        android:layout_gravity="right|center_vertical"
+        android:layout_marginRight="50dp"
+        android:layout_marginBottom="-120dp" />
+
+</FrameLayout>

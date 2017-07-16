@@ -1,0 +1,22 @@
+﻿<Window x:Class="Paelife.KinectFramework.Samples.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="400" Width="600" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Viewbox Grid.Row="0" Stretch="Uniform">
+            <Image Name="image1" Width="640" Height="480"/>
+        </Viewbox>
+        <TextBlock Grid.Row="0" Height="64" HorizontalAlignment="Center" Name="textBoxMessagesCenter" VerticalAlignment="Center" Text="DISCONNECTED" FontWeight="Bold" FontSize="48" Visibility="Collapsed" Foreground="Red" />
+        <TextBox Grid.Row="1" HorizontalAlignment="Left" Name="textBoxUsername" Margin="5,0,0,0" VerticalAlignment="Center" Width="120" Text="insert your username" />
+        <Button Grid.Row="1" Content="Save Face" Height="23" HorizontalAlignment="Left" Margin="130,0,0,0" Name="buttonSaveFace" VerticalAlignment="Center" Width="100" Click="buttonSaveFace_Click" />
+        <Button Grid.Row="1" Content="Recognize Face" Height="23" HorizontalAlignment="Right" Name="buttonRecognizeFace" VerticalAlignment="Center" Margin="0,0,5,0" Width="100" Click="buttonRecognizeFace_Click" />
+        <TextBlock Grid.Row="1" Height="23" HorizontalAlignment="Left" Margin="240,10,0,10" Name="textBlockFaceRecognition" Text="Face recognition ready." VerticalAlignment="Center" FontWeight="Bold" />
+        <TextBlock Grid.Row="2" HorizontalAlignment="Left" Name="textBlockStatus" Text="Number of Detected Users = 0" VerticalAlignment="Center" FontWeight="Bold" FontSize="14" />
+        <TextBlock Grid.Row="2" HorizontalAlignment="Right" Name="textBlockFace" Text="Face Tracking Status = None" VerticalAlignment="Center" FontWeight="Bold" FontSize="14" />
+    </Grid>
+</Window>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>DETI UA</string>
+		<key>Latitude</key>
+		<real>40.633181</real>
+		<key>Longitude</key>
+		<real>-8.659471999999999</real>
+		<key>City</key>
+		<string>Aveiro</string>
+		<key>PinChecked</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Fórum Aveiro</string>
+		<key>Latitude</key>
+		<real>40.64126</real>
+		<key>Longitude</key>
+		<real>-8.65105</real>
+		<key>City</key>
+		<string>Aveiro</string>
+		<key>PinChecked</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Sé Aveiro</string>
+		<key>Latitude</key>
+		<real>40.639664</real>
+		<key>Longitude</key>
+		<real>-8.650245999999999</real>
+		<key>City</key>
+		<string>Aveiro</string>
+		<key>PinChecked</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Parque da Macaca</string>
+		<key>Latitude</key>
+		<real>40.633588</real>
+		<key>Longitude</key>
+		<real>-8.654386000000001</real>
+		<key>City</key>
+		<string>Aveiro</string>
+		<key>PinChecked</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Casa do Gil</string>
+		<key>Latitude</key>
+		<real>40.647369</real>
+		<key>Longitude</key>
+		<real>-8.647017</real>
+		<key>City</key>
+		<string>Aveiro</string>
+		<key>PinChecked</key>
+		<false/>
+	</dict>
+</array>
+</plist>

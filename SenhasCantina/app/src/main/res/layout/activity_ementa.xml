@@ -1,0 +1,49 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray"
+    tools:context="senhascantina.app.ementa">
+
+    <Spinner
+        android:id="@+id/spinner1"
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:entries="@array/cantinas_array"
+        android:prompt="@string/cantinas_prompt"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="20dp" />
+
+
+    <Button
+        android:id="@+id/btnSubmit"
+        android:layout_width="136dp"
+        android:layout_height="76dp"
+        android:text="Ver Ementa"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:textStyle="bold"
+        android:textSize="24dp" />
+
+    <Spinner
+        android:id="@+id/spinner2"
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:entries="@array/dias_array"
+        android:prompt="@string/dias_prompt"
+        android:layout_gravity="left|top"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="20dp" />
+
+    <Spinner
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinner3"
+        android:entries="@array/refeicao_array"
+        android:prompt="@string/refeicao_prompt"
+        android:layout_gravity="left|top"
+        android:layout_marginTop="170dp"
+        android:layout_marginLeft="20dp" />
+
+</FrameLayout>
+

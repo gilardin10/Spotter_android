@@ -1,0 +1,13 @@
+C:\Users\Gil\Desktop\KinectToolbox\obj\Debug\Kinect.Toolbox.csprojResolveAssemblyReference.cache
+C:\Users\Gil\Desktop\KinectToolbox\obj\Debug\Controls\PresenceControl.baml
+C:\Users\Gil\Desktop\KinectToolbox\obj\Debug\Controls\MouseImpostor.baml
+C:\Users\Gil\Desktop\KinectToolbox\obj\Debug\Controls\PresenceControl.g.cs
+C:\Users\Gil\Desktop\KinectToolbox\obj\Debug\Controls\MouseImpostor.g.cs
+C:\Users\Gil\Desktop\KinectToolbox\obj\Debug\Kinect.Toolbox_MarkupCompile.cache
+C:\Users\Gil\Desktop\KinectToolbox\obj\Debug\Kinect.Toolbox.g.resources
+C:\Users\Gil\Documents\UA\IM\Trabalho3 - Spotinect\KinectToolbox\obj\Debug\Controls\PresenceControl.baml
+C:\Users\Gil\Documents\UA\IM\Trabalho3 - Spotinect\KinectToolbox\obj\Debug\Controls\MouseImpostor.baml
+C:\Users\Gil\Documents\UA\IM\Trabalho3 - Spotinect\KinectToolbox\obj\Debug\Controls\PresenceControl.g.cs
+C:\Users\Gil\Documents\UA\IM\Trabalho3 - Spotinect\KinectToolbox\obj\Debug\Controls\MouseImpostor.g.cs
+C:\Users\Gil\Documents\UA\IM\Trabalho3 - Spotinect\KinectToolbox\obj\Debug\Kinect.Toolbox_MarkupCompile.cache
+C:\Users\Gil\Documents\UA\IM\Trabalho3 - Spotinect\KinectToolbox\obj\Debug\Kinect.Toolbox.g.resources

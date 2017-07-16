@@ -1,0 +1,17 @@
+C:\Users\PeaLife\Documents\Visual Studio 2010\Projects\PalifeKinectLibrary\Test\bin\Debug\Test.exe
+C:\Users\PeaLife\Documents\Visual Studio 2010\Projects\PalifeKinectLibrary\Test\bin\Debug\Test.pdb
+C:\Users\PeaLife\Documents\Visual Studio 2010\Projects\PalifeKinectLibrary\Test\bin\Debug\PalifeKinectLibrary.dll
+C:\Users\PeaLife\Documents\Visual Studio 2010\Projects\PalifeKinectLibrary\Test\bin\Debug\AForge.Imaging.dll
+C:\Users\PeaLife\Documents\Visual Studio 2010\Projects\PalifeKinectLibrary\Test\bin\Debug\AForge.Math.dll
+C:\Users\PeaLife\Documents\Visual Studio 2010\Projects\PalifeKinectLibrary\Test\bin\Debug\AForge.dll
+C:\Users\PeaLife\Documents\Visual Studio 2010\Projects\PalifeKinectLibrary\Test\bin\Debug\PalifeKinectLibrary.pdb
+C:\Users\PeaLife\Documents\Visual Studio 2010\Projects\PalifeKinectLibrary\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\PeaLife\Documents\Visual Studio 2010\Projects\PalifeKinectLibrary\Test\obj\x86\Debug\MainWindow.baml
+C:\Users\PeaLife\Documents\Visual Studio 2010\Projects\PalifeKinectLibrary\Test\obj\x86\Debug\MainWindow.g.cs
+C:\Users\PeaLife\Documents\Visual Studio 2010\Projects\PalifeKinectLibrary\Test\obj\x86\Debug\App.g.cs
+C:\Users\PeaLife\Documents\Visual Studio 2010\Projects\PalifeKinectLibrary\Test\obj\x86\Debug\Test_MarkupCompile.cache
+C:\Users\PeaLife\Documents\Visual Studio 2010\Projects\PalifeKinectLibrary\Test\obj\x86\Debug\Test.g.resources
+C:\Users\PeaLife\Documents\Visual Studio 2010\Projects\PalifeKinectLibrary\Test\obj\x86\Debug\Test.Properties.Resources.resources
+C:\Users\PeaLife\Documents\Visual Studio 2010\Projects\PalifeKinectLibrary\Test\obj\x86\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\PeaLife\Documents\Visual Studio 2010\Projects\PalifeKinectLibrary\Test\obj\x86\Debug\Test.exe
+C:\Users\PeaLife\Documents\Visual Studio 2010\Projects\PalifeKinectLibrary\Test\obj\x86\Debug\Test.pdb

@@ -1,0 +1,72 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#999999"
+    tools:context="senhascantina.app.MainActivity">
+
+    <!-- The primary full-screen view. This can be replaced with whatever view
+         is needed to present your content, e.g. VideoView, SurfaceView,
+         TextureView, etc. -->
+
+    <!-- This FrameLayout insets its children based on system windows using
+         android:fitsSystemWindows. -->
+
+    <Button
+        android:layout_width="289dp"
+        android:layout_height="69dp"
+        android:id="@+id/senhas"
+        android:layout_gravity="center"
+        android:layout_marginTop="-40dp"
+        android:text="SENHAS"
+        android:textStyle="bold"
+        android:textSize="22dp"
+        android:clickable="false"
+        android:background="@color/gray"
+        android:textColor="@color/white" />
+
+    <Button
+        android:layout_width="289dp"
+        android:layout_height="69dp"
+        android:text="EMENTA"
+        android:id="@+id/ementa"
+        android:layout_gravity="center_horizontal|top"
+        android:layout_marginTop="260dp"
+        android:textStyle="bold"
+        android:textSize="22dp"
+        android:background="@color/gray"
+        android:textColor="@color/white" />
+
+    <Button
+        android:layout_width="289dp"
+        android:layout_height="69dp"
+        android:text="DEFINIÇÕES"
+        android:id="@+id/settings"
+        android:layout_gravity="center"
+        android:layout_marginTop="110dp"
+        android:textStyle="bold"
+        android:textSize="22dp"
+        android:background="@color/gray"
+        android:textColor="@color/white" />
+
+    <Button
+        android:layout_width="289dp"
+        android:layout_height="69dp"
+        android:text="AJUDA"
+        android:id="@+id/ajuda"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_marginBottom="40dp"
+        android:textStyle="bold"
+        android:textSize="22dp"
+        android:background="@color/gray"
+        android:textColor="@color/white" />
+
+    <ImageView
+        android:layout_width="270dp"
+        android:layout_height="110dp"
+        android:id="@+id/sasua"
+        android:layout_gravity="center_horizontal|top"
+        android:background="@drawable/logo_sasua"
+        android:layout_marginTop="40dp" />
+
+</FrameLayout>

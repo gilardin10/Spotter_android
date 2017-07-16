@@ -1,0 +1,1 @@
+C:\Users\Gil\Documents\UA\IM\Trabalho3 - Spotinect\KinectToolbox\Kinect.Toolbox.Voice\obj\Debug\Kinect.Toolbox.Voice.csprojResolveAssemblyReference.cache

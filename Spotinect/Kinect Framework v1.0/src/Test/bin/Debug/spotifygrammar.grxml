@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<grammar version="1.0" xml:lang="pt-PT" mode="voice" root="basicCmd"
+xmlns="http://www.w3.org/2001/06/grammar" tag-format="semantics/1.0" >
+
+  <rule id="basicCmd" scope="public">
+    <ruleref uri="#command"/>
+  </rule>
+
+  <rule id="command">
+    <item>
+      <ruleref uri="#action"/>
+      <tag>out.action = rules.action.action;</tag>
+    </item>
+    <item>
+      <ruleref uri="#object"/>
+      <tag>out.object = rules.object.object;</tag>
+    </item>
+  </rule>
+
+
+  <rule id="action">
+    <item repeat="1">
+      <one-of>
+        <item>quero ouvir música <tag> out.action = "open"; </tag></item>
+        <item>mete aí a dar um som<tag> out.action = "play"; </tag> </item>
+        <item>reproduz a música<tag> out.action = "play"; </tag></item>
+        <item>espera aí que eu volto já <tag> out.action = "pause"; </tag></item>
+        <item>cria uma lista de reprodução chamada<tag> out.action = "createPlaylist"; </tag></item>
+        <item>esta é fixe, adiciona à lista <tag> out.action = "addList"; </tag></item>
+        <item> nunca mais quero ouvir isto <tag> out.action = "removeList"; </tag></item>
+        <item> remove da lista <tag> out.action = "removeList"; </tag></item>
+        <item> apetece-me ouvir a música <tag> out.action = "playMusic" </tag></item>
+        <item>apetece-me ouvir o álbum <tag> out.action = "playAlbum"; </tag></item>
+        <item>apetece-me ouvir o artista <tag> out.action = "playArtist"; </tag></item>
+        <item>tira aí o som para atender o telefone <tag> out.action = "mute"; </tag></item>
+        <item>não me lembro do nome desta música <tag> out.action = "identify"; </tag></item>
+        <item>podes ativar o som por favor <tag> out.action = "unmute"; </tag></item>
+        <item>diminui <tag> out.action = "volumeDown"; </tag></item>
+        <item>aumenta <tag> out.action = "volumeUp"; </tag></item>
+        <item>estou farto de ouvir música <tag> out.action = "close"; </tag></item>
+        <item> sim <tag> out.action = "yes"; </tag> </item>
+        <item>não <tag> out.action = "no"; </tag></item>
+      </one-of>
+    </item>
+  </rule>
+
+
+  <rule id="object">
+    <item repeat="0-1">
+      <one-of>
+        <item>Album de Verão <tag> out.object = "Album de Verao" </tag></item>
+        <item>jantar com os amigos <tag> out.object = "jantar com os amigos" </tag></item>
+        <item>ginásio <tag> out.object = "ginásio" </tag></item>
+        <item>contentores <tag> out.object = "contentores" </tag></item>
+        <item>lambreta <tag> out.object = "lambreta" </tag></item>
+        <item> não há estrelas no céu <tag> out.object = "não há estrelas no céu" </tag></item>
+        <item>quinto <tag> out.object = "quinto" </tag></item>
+        <item>a espuma das canções <tag> out.object = "a espuma das canções" </tag></item> 
+        <item>concentrado <tag> out.object = "concentrado" </tag></item>
+        <item>António Zambujo <tag> out.object = "António Zambujo" </tag></item>
+        <item>Rui Veloso<tag> out.object = "Rui Veloso" </tag></item>
+        <item>Pedro Abrunhosa <tag> out.object = "Pedro Abrunhosa" </tag></item>
+      </one-of>
+    </item>
+  </rule>
+
+</grammar>

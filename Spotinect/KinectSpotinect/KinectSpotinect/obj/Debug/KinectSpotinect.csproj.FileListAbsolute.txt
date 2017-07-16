@@ -1,0 +1,5 @@
+C:\Users\Gil\Documents\UA\IM\Trabalho3 - Spotinect\KinectSpotinect\KinectSpotinect\bin\Debug\KinectSpotinect.exe.config
+C:\Users\Gil\Documents\UA\IM\Trabalho3 - Spotinect\KinectSpotinect\KinectSpotinect\obj\Debug\KinectSpotinect.csprojResolveAssemblyReference.cache
+C:\Users\Gil\Documents\UA\IM\Trabalho3 - Spotinect\KinectSpotinect\KinectSpotinect\obj\Debug\KinectSpotinect.Properties.Resources.resources
+C:\Users\Gil\Documents\UA\IM\Trabalho3 - Spotinect\KinectSpotinect\KinectSpotinect\obj\Debug\KinectSpotinect.csproj.GenerateResource.Cache
+C:\Users\Gil\Documents\UA\IM\Trabalho4 - Final Countdown\KinectSpotinect\KinectSpotinect\bin\Debug\KinectSpotinect.exe.config

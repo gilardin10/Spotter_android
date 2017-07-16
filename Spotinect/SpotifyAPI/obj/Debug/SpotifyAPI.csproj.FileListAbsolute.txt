@@ -1,0 +1,52 @@
+C:\Users\Luis\Desktop\SpotifyAPI-NET-2.12.0\SpotifyAPI-NET-2.12.0\SpotifyAPI\bin\Debug\SpotifyAPI.dll.config
+C:\Users\Luis\Desktop\SpotifyAPI-NET-2.12.0\SpotifyAPI-NET-2.12.0\SpotifyAPI\bin\Debug\SpotifyAPI.XML
+C:\Users\Luis\Desktop\SpotifyAPI-NET-2.12.0\SpotifyAPI-NET-2.12.0\SpotifyAPI\bin\Debug\SpotifyAPI.dll
+C:\Users\Luis\Desktop\SpotifyAPI-NET-2.12.0\SpotifyAPI-NET-2.12.0\SpotifyAPI\bin\Debug\SpotifyAPI.pdb
+C:\Users\Luis\Desktop\SpotifyAPI-NET-2.12.0\SpotifyAPI-NET-2.12.0\SpotifyAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Luis\Desktop\SpotifyAPI-NET-2.12.0\SpotifyAPI-NET-2.12.0\SpotifyAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Luis\Desktop\SpotifyAPI-NET-2.12.0\SpotifyAPI-NET-2.12.0\SpotifyAPI\obj\Debug\SpotifyAPI.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\SpotifyAPI-NET-2.12.0\SpotifyAPI-NET-2.12.0\SpotifyAPI\obj\Debug\SpotifyAPI.dll
+C:\Users\Luis\Desktop\SpotifyAPI-NET-2.12.0\SpotifyAPI-NET-2.12.0\SpotifyAPI\obj\Debug\SpotifyAPI.pdb
+C:\Users\Luis\Desktop\asr\SpotifyAPI\bin\Debug\SpotifyAPI.dll.config
+C:\Users\Luis\Desktop\asr\SpotifyAPI\bin\Debug\SpotifyAPI.XML
+C:\Users\Luis\Desktop\asr\SpotifyAPI\bin\Debug\SpotifyAPI.dll
+C:\Users\Luis\Desktop\asr\SpotifyAPI\bin\Debug\SpotifyAPI.pdb
+C:\Users\Luis\Desktop\asr\SpotifyAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Luis\Desktop\asr\SpotifyAPI\obj\Debug\SpotifyAPI.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\asr\SpotifyAPI\obj\Debug\SpotifyAPI.dll
+C:\Users\Luis\Desktop\asr\SpotifyAPI\obj\Debug\SpotifyAPI.pdb
+C:\Users\Gil\Documents\UA\IM\Spotify project\repo\im-spotify\SpotifyAPI\bin\Debug\SpotifyAPI.dll.config
+C:\Users\Gil\Documents\UA\IM\Spotify project\repo\im-spotify\SpotifyAPI\bin\Debug\SpotifyAPI.XML
+C:\Users\Gil\Documents\UA\IM\Spotify project\repo\im-spotify\SpotifyAPI\bin\Debug\SpotifyAPI.dll
+C:\Users\Gil\Documents\UA\IM\Spotify project\repo\im-spotify\SpotifyAPI\bin\Debug\SpotifyAPI.pdb
+C:\Users\Gil\Documents\UA\IM\Spotify project\repo\im-spotify\SpotifyAPI\obj\Debug\SpotifyAPI.csprojResolveAssemblyReference.cache
+C:\Users\Gil\Documents\UA\IM\Spotify project\repo\im-spotify\SpotifyAPI\obj\Debug\SpotifyAPI.dll
+C:\Users\Gil\Documents\UA\IM\Spotify project\repo\im-spotify\SpotifyAPI\obj\Debug\SpotifyAPI.pdb
+C:\Users\Gil\Documents\UA\IM\Spotify project\im-spotify\SpotifyAPI\bin\Debug\SpotifyAPI.dll.config
+C:\Users\Gil\Documents\UA\IM\Spotify project\im-spotify\SpotifyAPI\bin\Debug\SpotifyAPI.XML
+C:\Users\Gil\Documents\UA\IM\Spotify project\im-spotify\SpotifyAPI\bin\Debug\SpotifyAPI.dll
+C:\Users\Gil\Documents\UA\IM\Spotify project\im-spotify\SpotifyAPI\bin\Debug\SpotifyAPI.pdb
+C:\Users\Gil\Documents\UA\IM\Spotify project\im-spotify\SpotifyAPI\obj\Debug\SpotifyAPI.csprojResolveAssemblyReference.cache
+C:\Users\Gil\Documents\UA\IM\Spotify project\im-spotify\SpotifyAPI\obj\Debug\SpotifyAPI.dll
+C:\Users\Gil\Documents\UA\IM\Spotify project\im-spotify\SpotifyAPI\obj\Debug\SpotifyAPI.pdb
+C:\Users\Gil\Documents\UA\IM\im-spotify\SpotifyAPI\bin\Debug\SpotifyAPI.dll.config
+C:\Users\Gil\Documents\UA\IM\im-spotify\SpotifyAPI\bin\Debug\SpotifyAPI.XML
+C:\Users\Gil\Documents\UA\IM\im-spotify\SpotifyAPI\bin\Debug\SpotifyAPI.dll
+C:\Users\Gil\Documents\UA\IM\im-spotify\SpotifyAPI\bin\Debug\SpotifyAPI.pdb
+C:\Users\Gil\Documents\UA\IM\im-spotify\SpotifyAPI\obj\Debug\SpotifyAPI.csprojResolveAssemblyReference.cache
+C:\Users\Gil\Documents\UA\IM\im-spotify\SpotifyAPI\obj\Debug\SpotifyAPI.dll
+C:\Users\Gil\Documents\UA\IM\im-spotify\SpotifyAPI\obj\Debug\SpotifyAPI.pdb
+C:\Users\Gil\Documents\UA\IM\Trabalho3 - Spotinect\SpotifyAPI\bin\Debug\SpotifyAPI.dll.config
+C:\Users\Gil\Documents\UA\IM\Trabalho3 - Spotinect\SpotifyAPI\bin\Debug\SpotifyAPI.XML
+C:\Users\Gil\Documents\UA\IM\Trabalho3 - Spotinect\SpotifyAPI\bin\Debug\SpotifyAPI.dll
+C:\Users\Gil\Documents\UA\IM\Trabalho3 - Spotinect\SpotifyAPI\bin\Debug\SpotifyAPI.pdb
+C:\Users\Gil\Documents\UA\IM\Trabalho3 - Spotinect\SpotifyAPI\obj\Debug\SpotifyAPI.csprojResolveAssemblyReference.cache
+C:\Users\Gil\Documents\UA\IM\Trabalho3 - Spotinect\SpotifyAPI\obj\Debug\SpotifyAPI.dll
+C:\Users\Gil\Documents\UA\IM\Trabalho3 - Spotinect\SpotifyAPI\obj\Debug\SpotifyAPI.pdb
+C:\Users\Gil\Documents\UA\IM\Trabalho4 - Final Countdown\SpotifyAPI\bin\Debug\SpotifyAPI.dll.config
+C:\Users\Gil\Documents\UA\IM\Trabalho4 - Final Countdown\SpotifyAPI\bin\Debug\SpotifyAPI.XML
+C:\Users\Gil\Documents\UA\IM\Trabalho4 - Final Countdown\SpotifyAPI\bin\Debug\SpotifyAPI.dll
+C:\Users\Gil\Documents\UA\IM\Trabalho4 - Final Countdown\SpotifyAPI\bin\Debug\SpotifyAPI.pdb
+C:\Users\Gil\Documents\UA\IM\Trabalho4 - Final Countdown\SpotifyAPI\obj\Debug\SpotifyAPI.csprojResolveAssemblyReference.cache
+C:\Users\Gil\Documents\UA\IM\Trabalho4 - Final Countdown\SpotifyAPI\obj\Debug\SpotifyAPI.dll
+C:\Users\Gil\Documents\UA\IM\Trabalho4 - Final Countdown\SpotifyAPI\obj\Debug\SpotifyAPI.pdb

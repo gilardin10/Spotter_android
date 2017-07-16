@@ -1,0 +1,118 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#999999"
+    tools:context="senhascantina.app.MainActivity">
+
+
+
+    <ImageView
+        android:layout_width="230dp"
+        android:layout_height="90dp"
+        android:id="@+id/sasua"
+        android:layout_gravity="center_horizontal|top"
+        android:background="@drawable/logo_sasua"
+        android:layout_marginTop="80dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="VER SENHAS"
+        android:id="@+id/bla1"
+        android:layout_gravity="top|center"
+        android:textSize="30dp"
+        android:textColor="@color/white"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/bla2"
+        android:layout_gravity="center_vertical|left"
+        android:textSize="30dp"
+        android:textColor="@color/white"
+        android:layout_marginLeft="35dp"
+        android:text="ESTUDANTE"
+        android:layout_marginTop="-30dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="FUNCIONARIO"
+        android:id="@+id/bla3"
+        android:layout_gravity="center_vertical|left"
+        android:textSize="30dp"
+        android:textColor="@color/white"
+        android:layout_marginBottom="-55dp"
+        android:layout_marginTop="-30dp"
+        android:layout_marginLeft="35dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="VISITANTE"
+        android:id="@+id/bla4"
+        android:layout_gravity="center_vertical|left"
+        android:textSize="30dp"
+        android:textColor="@color/white"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="-30dp"
+        android:layout_marginBottom="-110dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="EXTRA"
+        android:id="@+id/bla5"
+        android:layout_gravity="center_vertical|left"
+        android:textSize="30dp"
+        android:textColor="@color/white"
+        android:layout_marginBottom="-165dp"
+        android:layout_marginTop="-30dp"
+        android:layout_marginLeft="35dp" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/bSE"
+        android:layout_gravity="right|center_vertical"
+        android:text="0"
+        android:layout_marginTop="-30dp"
+        android:layout_marginRight="35dp" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/bSF"
+        android:layout_gravity="right|center_vertical"
+        android:text="0"
+        android:layout_marginBottom="-55dp"
+        android:layout_marginTop="-30dp"
+        android:layout_marginRight="35dp" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/bSV"
+        android:layout_gravity="right|center_vertical"
+        android:text="0"
+        android:layout_marginTop="-30dp"
+        android:layout_marginBottom="-110dp"
+        android:layout_marginRight="35dp" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/bSEx"
+        android:layout_gravity="right|center_vertical"
+        android:text="0"
+        android:layout_marginTop="-30dp"
+        android:layout_marginBottom="-165dp"
+        android:layout_marginRight="35dp" />
+
+</FrameLayout>
